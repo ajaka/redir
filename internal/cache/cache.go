@@ -6,7 +6,7 @@ import (
 	"log/slog"
 	"time"
 
-	"github.com/ajaka-the-wizard/redir/internal/configs"
+	"github.com/ajaka/redir/internal/configs"
 	fts "github.com/fatih/structs"
 	"github.com/google/uuid"
 	"github.com/redis/go-redis/v9"

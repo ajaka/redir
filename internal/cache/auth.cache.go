@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/ajaka-the-wizard/redir/internal/domain"
+	"github.com/ajaka/redir/internal/domain"
 )
 
 func (r *Sredis) Clean() {

@@ -5,7 +5,7 @@ import (
 	"log/slog"
 	"time"
 
-	"github.com/ajaka-the-wizard/redir/internal/models"
+	"github.com/ajaka/redir/internal/models"
 )
 
 func (r *Repository) SaveMetrics(ctx context.Context, logger *slog.Logger, metric *models.Metrics) error {

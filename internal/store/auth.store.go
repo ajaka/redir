@@ -5,7 +5,7 @@ import (
 	"log/slog"
 	"time"
 
-	"github.com/ajaka-the-wizard/redir/internal/domain"
+	"github.com/ajaka/redir/internal/domain"
 )
 
 func (s *Store) SetUserOnline(ctx context.Context, logger *slog.Logger, sessionId string, u *domain.

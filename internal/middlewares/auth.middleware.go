@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ajaka-the-wizard/redir/internal/configs"
-	"github.com/ajaka-the-wizard/redir/internal/store"
-	"github.com/ajaka-the-wizard/redir/internal/utils"
+	"github.com/ajaka/redir/internal/configs"
+	"github.com/ajaka/redir/internal/store"
+	"github.com/ajaka/redir/internal/utils"
 	"github.com/gin-gonic/gin"
 	"github.com/jackc/pgx/v5"
 )

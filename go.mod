@@ -1,4 +1,4 @@
-module github.com/ajaka-the-wizard/redir
+module github.com/ajaka/redir
 
 go 1.25.4
 

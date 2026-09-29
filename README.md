@@ -95,7 +95,7 @@ Asset requests validate the public key, load the completed media row, enforce pu
 The SDK lives in `pkg/redir` and can be imported as:
 
 ```go
-import "github.com/ajaka-the-wizard/redir/pkg/redir"
+import "github.com/ajaka/redir/pkg/redir"
 ```
 
 Create a client with the backend URL, product ID, and generated private key:

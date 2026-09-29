@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/ajaka-the-wizard/redir/internal/configs"
-	"github.com/ajaka-the-wizard/redir/internal/models"
+	"github.com/ajaka/redir/internal/configs"
+	"github.com/ajaka/redir/internal/models"
 	"github.com/gin-gonic/gin"
 )
 

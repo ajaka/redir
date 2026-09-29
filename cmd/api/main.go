@@ -3,7 +3,7 @@ package main
 import (
 	"log/slog"
 
-	"github.com/ajaka-the-wizard/redir/internal"
+	"github.com/ajaka/redir/internal"
 )
 
 func main() {

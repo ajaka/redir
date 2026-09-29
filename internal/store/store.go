@@ -7,9 +7,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ajaka-the-wizard/redir/internal/cache"
-	"github.com/ajaka-the-wizard/redir/internal/configs"
-	"github.com/ajaka-the-wizard/redir/internal/repository"
+	"github.com/ajaka/redir/internal/cache"
+	"github.com/ajaka/redir/internal/configs"
+	"github.com/ajaka/redir/internal/repository"
 )
 
 type Store struct {

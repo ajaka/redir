@@ -5,7 +5,7 @@ import (
 	"log/slog"
 	"time"
 
-	"github.com/ajaka-the-wizard/redir/internal/models"
+	"github.com/ajaka/redir/internal/models"
 	"github.com/google/uuid"
 	"github.com/jackc/pgx/v5"
 )

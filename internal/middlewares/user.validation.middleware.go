@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/ajaka-the-wizard/redir/internal/domain"
-	"github.com/ajaka-the-wizard/redir/internal/utils"
+	"github.com/ajaka/redir/internal/domain"
+	"github.com/ajaka/redir/internal/utils"
 	"github.com/gin-gonic/gin"
 )
 

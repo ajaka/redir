@@ -1,8 +1,8 @@
 package routes
 
 import (
-	"github.com/ajaka-the-wizard/redir/internal/handlers"
-	"github.com/ajaka-the-wizard/redir/internal/store"
+	"github.com/ajaka/redir/internal/handlers"
+	"github.com/ajaka/redir/internal/store"
 	"github.com/gin-gonic/gin"
 )
 

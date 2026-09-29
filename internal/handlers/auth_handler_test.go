@@ -11,11 +11,11 @@ package handlers_test
 // 	"testing"
 // 	"time"
 
-// 	"github.com/ajaka-the-wizard/redir/internal/configs"
-// 	"github.com/ajaka-the-wizard/redir/internal/domain"
-// 	"github.com/ajaka-the-wizard/redir/internal/handlers"
-// 	"github.com/ajaka-the-wizard/redir/internal/middlewares"
-// 	"github.com/ajaka-the-wizard/redir/internal/models"
+// 	"github.com/ajaka/redir/internal/configs"
+// 	"github.com/ajaka/redir/internal/domain"
+// 	"github.com/ajaka/redir/internal/handlers"
+// 	"github.com/ajaka/redir/internal/middlewares"
+// 	"github.com/ajaka/redir/internal/models"
 // 	"github.com/gin-gonic/gin"
 // 	"golang.org/x/crypto/bcrypt"
 // )
